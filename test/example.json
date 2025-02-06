@@ -1,0 +1,37 @@
+{
+    "titulo": "Introdução ao Aprendizado de Máquina Supervisionado",
+    "autor": "Maria Silva",
+    "data": "2025-02-06",
+    "conteudo": [
+      {
+        "tipo": "parágrafo",
+        "texto": "O aprendizado de máquina supervisionado é uma das abordagens mais populares em IA. Ele envolve treinar um modelo com dados rotulados, ou seja, dados que já possuem uma resposta conhecida."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Tipos de Algoritmos Supervisionados"
+      },
+      {
+        "tipo": "lista",
+        "itens": [
+          "Regressão Linear",
+          "Máquinas de Vetores de Suporte (SVM)",
+          "Árvores de Decisão",
+          "K Vizinhos Mais Próximos (KNN)"
+        ]
+      },
+      {
+        "tipo": "parágrafo",
+        "texto": "Esses algoritmos são usados para tarefas como classificação e regressão, dependendo do tipo de variável dependente (categórica ou contínua)."
+      },
+      {
+        "tipo": "subtitulo",
+        "texto": "Exemplo Prático"
+      },
+      {
+        "tipo": "parágrafo",
+        "texto": "Um exemplo clássico de aprendizado supervisionado é a previsão do preço de imóveis com base em características como metragem, localização e número de quartos. O modelo é treinado com dados históricos de imóveis, e a saída será o preço estimado."
+      }
+    ]
+  }
+  
