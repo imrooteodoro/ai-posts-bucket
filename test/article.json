@@ -1,0 +1,24 @@
+{
+    "articles": [
+      {
+        "id": "2024-001",
+        "title": "Avanços em Inteligência Artificial Quântica",
+        "author": "Dr. Maria Silva",
+        "date": "2024-02-08",
+        "category": "Computação Quântica",
+        "summary": "Uma análise dos recentes desenvolvimentos em IA quântica e suas implicações para o futuro da computação.",
+        "read_time": 8,
+        "content": "<p>Conteúdo do artigo em HTML...</p><h2>Introdução</h2><p>Mais conteúdo...</p>"
+      },
+      {
+        "id": "2024-002",
+        "title": "Biodiversidade na Amazônia: Novas Descobertas",
+        "author": "Dr. João Santos",
+        "date": "2024-02-07",
+        "category": "Biologia",
+        "summary": "Pesquisadores descobrem novas espécies na floresta amazônica durante expedição recente.",
+        "read_time": 12,
+        "content": "<p>Conteúdo do artigo em HTML...</p><h2>Metodologia</h2><p>Mais conteúdo...</p>"
+      }
+    ]
+  }
