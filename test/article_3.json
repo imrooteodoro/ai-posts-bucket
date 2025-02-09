@@ -13,11 +13,11 @@
         },
         {
             "tipo": "parágrafo",
-            "texto": "Em termos simples, a integral de uma função é o valor que representa a área sob a curva dessa função em um intervalo específico. A notação mais comum para a integral de uma função \( f(x) \) entre os limites \( a \) e \( b \) é expressa como:"
+            "texto": "Em termos simples, a integral de uma função é o valor que representa a área sob a curva dessa função em um intervalo específico. A notação mais comum para a integral de uma função \\( f(x) \\) entre os limites \\( a \\) e \\( b \\) é expressa como:"
         },
         {
             "tipo": "parágrafo",
-            "texto": "\\[ \\int_{a}^{b} f(x) \, dx \\]"
+            "texto": "\\[ \\int_{a}^{b} f(x) \\, dx \\]"
         },
         {
             "tipo": "subtitulo",
@@ -25,19 +25,19 @@
         },
         {
             "tipo": "parágrafo",
-            "texto": "Vamos calcular a área sob a curva da função \( f(x) = x^2 \) entre os limites \( a = 0 \) e \( b = 2 \)."
+            "texto": "Vamos calcular a área sob a curva da função \\( f(x) = x^2 \\) entre os limites \\( a = 0 \\) e \\( b = 2 \\)."
         },
         {
             "tipo": "parágrafo",
-            "texto": "A integral definida de \( f(x) = x^2 \) de \( 0 \) a \( 2 \) é dada por:"
+            "texto": "A integral definida de \\( f(x) = x^2 \\) de \\( 0 \\) a \\( 2 \\) é dada por:"
         },
         {
             "tipo": "parágrafo",
-            "texto": "\\[ \\int_{0}^{2} x^2 \, dx \\]"
+            "texto": "\\[ \\int_{0}^{2} x^2 \\, dx \\]"
         },
         {
             "tipo": "parágrafo",
-            "texto": "A primitiva de \( x^2 \) é \( \\frac{x^3}{3} \), então podemos calcular a integral:"
+            "texto": "A primitiva de \\( x^2 \\) é \\( \\frac{x^3}{3} \\), então podemos calcular a integral:"
         },
         {
             "tipo": "parágrafo",
@@ -45,7 +45,7 @@
         },
         {
             "tipo": "parágrafo",
-            "texto": "Portanto, a área sob a curva de \( f(x) = x^2 \) entre \( x = 0 \) e \( x = 2 \) é \( \\frac{8}{3} \)."
+            "texto": "Portanto, a área sob a curva de \\( f(x) = x^2 \\) entre \\( x = 0 \\) e \\( x = 2 \\) é \\( \\frac{8}{3} \\)."
         },
         {
             "tipo": "subtitulo",
