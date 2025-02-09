@@ -1,0 +1,59 @@
+{
+    "titulo": "Introdução ao Cálculo Integral",
+    "autor": "Adelson Teodoro Nunes",
+    "data": "2025-02-09",
+    "conteudo": [
+        {
+            "tipo": "parágrafo",
+            "texto": "O Cálculo Integral é uma das duas áreas principais do Cálculo, sendo a outra o Cálculo Diferencial. O objetivo do Cálculo Integral é estudar o processo de integração, que é a operação inversa da diferenciação. Ele permite calcular áreas, volumes e até mesmo o valor total de grandezas acumuladas, como deslocamento, trabalho, etc."
+        },
+        {
+            "tipo": "subtitulo",
+            "texto": "Definição de Integral"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "Em termos simples, a integral de uma função é o valor que representa a área sob a curva dessa função em um intervalo específico. A notação mais comum para a integral de uma função \( f(x) \) entre os limites \( a \) e \( b \) é expressa como:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "\\[ \\int_{a}^{b} f(x) \, dx \\]"
+        },
+        {
+            "tipo": "subtitulo",
+            "texto": "Exemplo Prático: Cálculo da Área Sob a Curva"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "Vamos calcular a área sob a curva da função \( f(x) = x^2 \) entre os limites \( a = 0 \) e \( b = 2 \)."
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "A integral definida de \( f(x) = x^2 \) de \( 0 \) a \( 2 \) é dada por:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "\\[ \\int_{0}^{2} x^2 \, dx \\]"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "A primitiva de \( x^2 \) é \( \\frac{x^3}{3} \), então podemos calcular a integral:"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "\\[ \\left[ \\frac{x^3}{3} \\right]_0^2 = \\frac{2^3}{3} - \\frac{0^3}{3} = \\frac{8}{3} \\]"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "Portanto, a área sob a curva de \( f(x) = x^2 \) entre \( x = 0 \) e \( x = 2 \) é \( \\frac{8}{3} \)."
+        },
+        {
+            "tipo": "subtitulo",
+            "texto": "Aplicações do Cálculo Integral"
+        },
+        {
+            "tipo": "parágrafo",
+            "texto": "O Cálculo Integral tem inúmeras aplicações na física, engenharia, economia e diversas outras áreas. Por exemplo, ele é utilizado para calcular o trabalho realizado por uma força variável, a área de superfícies irregulares, o volume de sólidos de revolução, entre outros."
+        }
+    ]
+}
