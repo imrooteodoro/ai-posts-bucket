@@ -1,0 +1,29 @@
+{
+    "titulo": "O Cálculo Integral",
+    "autor": "João Silva",
+    "data": "2025-02-09",
+    "conteudo": [
+      {
+        "tipo": "parágrafo",
+        "texto": "O Cálculo Integral é uma das duas áreas principais do Cálculo, sendo a outra o Cálculo Diferencial. O objetivo do Cálculo Integral é estudar o processo de integração, que é a operação inversa da diferenciação."
+      },
+      {
+        "tipo": "parágrafo",
+        "texto": "A integral de uma função \( f(x) = x^2 \) entre os limites \( a = 0 \) e \( b = 2 \) é dada por: \\[ \\int_{0}^{2} x^2 \, dx = \\frac{8}{3} \\]."
+      },
+      {
+        "tipo": "imagem",
+        "url": "https://www.example.com/imagem1.jpg",
+        "descricao": "Gráfico de uma função quadrática."
+      },
+      {
+        "tipo": "lista",
+        "itens": [
+          "Estudo de áreas",
+          "Cálculo de volumes",
+          "Determinação de deslocamento"
+        ]
+      }
+    ]
+  }
+  
